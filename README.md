@@ -1,1 +1,0 @@
-# ACTIVIDAD-3---Anillo-NeoPixel-con-Joystick-y-Pantalla-OLED
